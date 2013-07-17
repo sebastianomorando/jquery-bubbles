@@ -1,0 +1,4 @@
+jquery-bubbles
+==============
+
+JQuery Bubbles
